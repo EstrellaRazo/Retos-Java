@@ -25,6 +25,6 @@ public class Decimalabinario {
         System.out.println("Dame un número decimal: ");
         int numeroDecimal = scanner.nextInt();
 
-        System.out.println("El número " + numeroDecimal + " 12binario es: " + convertir(numeroDecimal));
+        System.out.println("El número " + numeroDecimal + "binario es: " + convertir(numeroDecimal));
     }
 }
